@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="academic-npru" tvg-logo="https://academic.npru.ac.th/wp-content/uploads/2023/10/asdasdxzczxczxc-300x106.png" group-title="Education",Academic NPRU
 https://academic.npru.ac.th/signage/hls/image.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="academic-npru2" tvg-logo="https://academic.npru.ac.th/wp-content/uploads/2023/10/asdasdxzczxczxc-300x106.png" group-title="Education",Academic NPRU 2
+https://academic.npru.ac.th/signage/hls/image.m3u8
